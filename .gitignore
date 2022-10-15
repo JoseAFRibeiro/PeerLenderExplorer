@@ -1,0 +1,4 @@
+.vscode
+.apt_*
+
+src/res/secret_files/*
